@@ -1,5 +1,17 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Dissecting Heritability and Causal Variants in Cancer Genomics>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<This report dissects the genetic architecture, specifically heritability and causal
+variants, of common cancers to further understanding of significant genes
+that cause these cancers and the relationship between causal variants and heritability
+more broadly. Three primary methods were used to 1) significantly
+test the impact of heritability and the number of causal single nucleotide
+polymorphisms (SNPs) across all genes available 2) integrate genomic evolutionary
+rate profiling scores into fine mapping results to further evolutionary
+detail for all genes 3) conduct a transcriptome wide association study on
+particular cancers. The results of the first step were used as inputs into the
+final step to corroborate the results and provide additional insights into the
+significance of the causal genes. Our results built upon existing empirical
+studies by specifying which particular genes in a gene family are causal and
+by investigating how fine mapping results could corroborate existing findings.>
